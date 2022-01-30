@@ -1,5 +1,6 @@
 name: SaveInventory
-author: PedhotDev
+authors:
+  - PedhotDev
 api: 4.0.0
 version: 0.1.0
-antigen: pedhot\saveinventory\SaveInventory
+antigen: pedhot\saveinventory
