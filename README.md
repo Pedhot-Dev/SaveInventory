@@ -8,3 +8,9 @@ use pedhot\saveinventory\SaveInventory;
 
 SaveInventory::saveInventory($player, true);
 ```
+## Send Saved Player Inventory
+```php
+use pedhot\saveinventory\SaveInventory;
+
+SaveInventory::sendSavedInventory($player);
+```
